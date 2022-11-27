@@ -1,0 +1,2 @@
+STT*F1*Acc*recall*precision*
+results*0.9615*0.9652*0.9652*0.9672*
