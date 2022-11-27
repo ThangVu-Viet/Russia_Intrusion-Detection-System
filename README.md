@@ -1,4 +1,4 @@
-## HaUI Intrusion Detection
+## Russ Proj Intrusion Detection
 
 Implementation of paper - (loading...)
 
