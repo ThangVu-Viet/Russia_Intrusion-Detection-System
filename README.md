@@ -8,7 +8,7 @@ CNN architecture follow:
 ## Quick Start
 ### Install lib
 ```shell
-git clone https://github.com/DoManhQuang/intrusion-detection.git
+git clone https://github.com/ThangVu-Viet/Russia_Intrusion-Detection-System.git
 cd intrusion-detection
 pip install -r setup.txt
 ```
